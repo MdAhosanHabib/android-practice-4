@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_appRating"
+            android:icon="@drawable/star"
+            android:title="@string/give_5_star" />
+        <item
+            android:id="@+id/nav_appShare"
+            android:icon="@drawable/share"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/nav_appStore"
+            android:icon="@drawable/store"
+            android:title="@string/other_apps" />
+
+        <item
+            android:id="@+id/nav_privacyPolicy"
+            android:icon="@drawable/privacy"
+            android:title="@string/privacyPolicy" />
+    </group>
+
+
+</menu>

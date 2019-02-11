@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:ignore="UselessParent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/t1"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/menu1_title"
+                android:padding="20dp"
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                />
+
+            <TextView
+                android:padding="20dp"
+                android:text="তনুশ্রী দত্তকে গতকাল সোমবার আইনি নোটিশ পাঠিয়েছেন বলিউডের শক্তিমান অভিনেতা নানা পাটেকার। এই আইনি নোটিশে কী আছে? আইনজীবী রাজেন্দ্র শিরোধকর ভারতীয় সংবাদমাধ্যমকে জানিয়েছেন, নানা পাটেকারকে নিয়ে গত কয়েক দিন তনুশ্রী দত্ত যত অভিযোগ করেছেন, সবই মিথ্যা। নোটিশে এসব অভিযোগ অস্বীকার করা হয়েছে। যেহেতু তনুশ্রী দত্ত মিথ্যা অভিযোগ করে নানা পাটেকারের ইমেজের ক্ষতি করেছেন, এর জন্য তাঁকে প্রকাশ্যে ক্ষমা চাইতে হবে।\n\nআইনজীবী রাজেন্দ্র শিরোধকর আরও জানিয়েছেন, হয়তো শিগগিরই নানা পাটেকার তাঁর বিরুদ্ধে আনা অভিযোগের ব্যাপারে সাংবাদিকদের মুখোমুখি হবেন।"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textIsSelectable="true"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                tools:ignore="HardcodedText" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/t2"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:padding="20dp"
+                android:text="২০০৪ সালের ‘মিস ইন্ডিয়া’ ও বলিউড তারকা তনুশ্রী দত্ত শক্তিমান অভিনেতা নানা পাটেকারের বিরুদ্ধে যৌন হয়রানির অভিযোগ করেছেন। ভারতের টিভি চ্যানেল নিউজ এইটিনকে দেওয়া সাক্ষাৎকারে তনুশ্রী দত্ত অভিযোগ করেন, ২০০৯ সালে মুক্তি পাওয়া ‘হর্ন ওকে প্লিজ’ ছবি করতে গিয়ে নানা পাটেকার তাঁকে যৌন হেনস্তা করেছেন।
+\n\n
+নানা পাটেকারের সঙ্গে তাঁর ঘটে যাওয়া ঘটনার জের ধরে তো প্রায় দেশান্তরিই হয়েছিলেন তনুশ্রী। সম্প্রতি যুক্তরাষ্ট্র থেকে ফিরেছেন তনুশ্রী দত্ত। ফিরে এসে জানালেন, ‘হর্ন ওকে প্লিজ’ ছবির এক আইটেম গানে কাজ করার কথা ছিল। নানা পাটেকার সে সময় খারাপ আচরণ করেছিলেন তাঁর সঙ্গে। কোরিওগ্রাফার গণেশ আচার্য আর পরিচালক রাকেশ সারাঙ্গ তাঁকে ব্যাপারটি চেপে যেতে বলেছিলেন। নানা পাটেকার অনুচিতভাবে গায়ে হাত দিতে চাইলে তিনি কেন চেপে যাবেন? শুটিং থেকে চলে এসেছিলেন তিনি। এ জন্য একদল লোককে দিয়ে তাঁর গাড়িতে হামলাও চালানো হয়। সে সময় তাঁর গাড়িতে মা-বাবাও ছিলেন।"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textIsSelectable="true"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                tools:ignore="HardcodedText" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ads" />
+</LinearLayout>

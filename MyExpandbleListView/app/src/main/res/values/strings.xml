@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">ExpandbleListView</string>
+    <string name="title_text">Warning</string>
+    <string name="messege_text">Do you want to exit?</string>
+    <string-array name="list_header">
+        <item>AI</item>
+        <item>ALU</item>
+        <item>DIA</item>
+        <item>PC</item>
+        <item>CPU</item>
+        <item>ML</item>
+        <item>BSc</item>
+        <item>MSc</item>
+        <item>BBA</item>
+        <item>DU</item>
+        <item>JU</item>
+        <item>DIU</item>
+        <item>MT</item>
+        <item>SD</item>
+        <item>DB</item>
+        <item>SSF</item>
+        <item>DBM</item>
+        <item>MS</item>
+        <item>SB</item>
+        <item>CI</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="list_child">
+        <item>
+            Artificial Intelligence
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Arithmetic Logic unit
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Digital Internet Agency
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Personal Computer
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Central Processing Unit
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Machine Learning
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Bachelor of Science
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Masters of Science
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Bachelaor of Business Admenistrtion
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Dhaka University
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Jahangirnogor University
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Daffodil International university
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Machine Training
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Solid Data
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Data Bus
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Special Security Force
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Data Base Management
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Management System
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Super Vission
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Central Intelligent
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+        <item>
+            Prime Minister
+            \n\nIt is the most hot things in this time. Great and latest feature are in here. This is our new wants we should be learn this.
+        </item>
+    </string-array>
+</resources>

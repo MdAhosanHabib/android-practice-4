@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">অ্যাপ নেম</string>
+
+    <!-- Test Ads-->
+    <!--<string name="banner_ads">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ads">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!-- Original Ads-->
+    <string name="banner_ads">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ads">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="give_5_star">৫ স্টার দিন</string>
+    <string name="other_apps">অন্যান্য অ্যাপ</string>
+    <string name="close_app">অ্যাপটি বন্ধ করুন</string>
+    <string name="about">আমাদের সম্পর্কে</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="home">হোম</string>
+    <string name="app_update_check">আপডেট চেক</string>
+    <string name="comment">আপনার মতামত দিন</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="menu1_title">টাইটেল ১</string>
+    <string name="menu2_title">টাইটেল ২</string>
+    <string name="menu3_title">টাইটেল ৩</string>
+    <string name="menu4_title">টাইটেল ৪</string>
+    <string name="menu5_title">টাইটেল ৫</string>
+    <string name="menu6_title">টাইটেল ৬</string>
+    <string name="privacyPolicy">Privacy Policy</string>
+
+
+</resources>

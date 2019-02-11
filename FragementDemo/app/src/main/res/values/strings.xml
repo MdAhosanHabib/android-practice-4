@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FragementDemo</string>
+    <string name="title_text">Warning</string>
+    <string name="messege_text">Do you want to exit?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rakib_dt">
+        \nName: Md. Ahosan Habib
+        \nAge: 22
+        \nBSc in CSE
+    </string>
+    <string name="rokon_dt">
+        \nName: Md. Rokibul Hasan
+        \nAge: 22
+        \nBSc in Chemistry
+    </string>
+    <string name="sakib_dt">
+        \nName: Md. Adnan Habib
+        \nAge: 19
+        \nDiploma in Marine Engineering
+    </string>
+    <string name="sourov_dt">
+        \nName: Md. Shadman Al Sakib
+        \nAge: 22
+        \nBSc in EEE
+    </string>
+    <string name="mizan_dt">
+        \nName: Md. Mizanur Rahman
+        \nAge: 22
+        \nBA in English
+    </string>
+    <string name="sumon_dt">
+        \nName: Md. Sumon Sardar
+        \nAge: 22
+        \nBSc in CSE
+    </string>
+    <string name="mamun_dt">
+        \nName: Md. Mehedi Hasan Mamun
+        \nAge: 22
+        \nBSc in CSE
+    </string>
+    <string name="Faruk_dt">
+        \nName: Md. Faruk Abdullah
+        \nAge: 22
+        \nBSc in EEE
+    </string>
+</resources>

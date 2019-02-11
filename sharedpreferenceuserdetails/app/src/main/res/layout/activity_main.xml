@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/usernameID"
+        android:layout_margin="20dp"
+        android:hint="Enter Your Username"
+        />
+    <EditText
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordID"
+        android:layout_margin="20dp"
+        android:inputType="textPassword"
+        android:hint="Enter Your password"
+        />
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_marginRight="20dp"
+            android:id="@+id/savebuttonID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            style="@style/Widget.AppCompat.Button.Colored"
+            />
+        <Button
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/loadbuttonID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Load"
+            style="@style/Widget.AppCompat.Button.Colored"
+            />
+
+    </LinearLayout>
+    <TextView
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textviewID"
+
+        />
+
+</LinearLayout>

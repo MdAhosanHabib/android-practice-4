@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:ignore="UselessParent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/t2_1"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/menu2_title"
+                android:padding="20dp"
+                android:layout_marginBottom="10dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                />
+
+            <TextView
+                android:padding="20dp"
+                android:text="পিরোজপুরের মধ্যবিত্ত পরিবারের মেয়ে জান্নাতুল ফেরদৌসী ঐশী এ বছর এইচএসসি পাস করেছেন মাটিভাঙ্গা ডিগ্রি কলেজ থেকে। ঢাকায় এসেছেন উচ্চশিক্ষার জন্য। গত জুলাই মাসে বিশ্ববিদ্যালয়ে ভর্তির জন্য কোচিং শুরু করেন। চোখে যখন বিশ্ববিদ্যালয়ে ভর্তির স্বপ্ন, তখনই জানতে পারেন ‘মিস ওয়ার্ল্ড বাংলাদেশ ২০১৮’-এর আবেদন করার খবর। আগে থেকে এই আয়োজনের প্রতি ভালো লাগার কারণে আর দেরি করেননি। পরিবারের কাউকে কিছু না জানিয়ে আবেদন করেন। নাম নিবন্ধনের পর বাবা-মাকে জানান। বংশের কেউ অভিনয়, নাচ, গান কিংবা মডেলিংয়ের সঙ্গে যুক্ত না থাকলেও বাবা-মা বাধা দেননি, মেয়েকে তাঁরা উৎসাহ দেন।
+\n\n
+দেখতে দেখতে ‘মিস ওয়ার্ল্ড বাংলাদেশ’ প্রতিযোগিতার চূড়ান্ত পর্বে জায়গা করে নেন। সেরা দশে জায়গা পাওয়ার পর আত্মবিশ্বাস বেড়ে যায়। কোচিং করতে এসে একসময় হয়ে যান ‘মিস ওয়ার্ল্ড বাংলাদেশ’। ঐশীর গ্রামের বাড়ি পিরোজপুরের মাটিভাঙ্গা এলাকায়। বাবা আবদুল হাই সমাজকর্মী আর মা আফরোজা হোসনে আরা স্কুলের শিক্ষক। ঐশীরা দুই বোন। বড় বোনের নাম শশী।
+\n\n
+ঐশী বলেন, ‘আমি জানি, বিচারকেরা সবদিক বিবেচনা করে “মিস ওয়ার্ল্ড বাংলাদেশ” নির্বাচিত করেছেন। আমি এই প্রতিযোগিতায় এসে শুরু থেকেই শিখছি। তবে জিতব, এমনটা ভাবিনি। খুব নার্ভাস ছিলাম।’
+
+"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textIsSelectable="true"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                tools:ignore="HardcodedText" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:src="@drawable/t2_2"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:padding="20dp"
+                android:text="এ বছর ‘মিস ওয়ার্ল্ড বাংলাদেশ’ হয়েছেন ঐশী। চীনের সানাইয়া শহরে ৭ ডিসেম্বর ‘মিস ওয়ার্ল্ড’ প্রতিযোগিতার চূড়ান্ত প্রতিযোগিতায় অংশ নেবেন তিনি। ঐশী বললেন, ‘গত বছর “মিস ওয়ার্ল্ড বাংলাদেশ” দেখে মনে হয়েছে, অন্য সুন্দরী প্রতিযোগিতাগুলো থেকে এটি আলাদা। বয়সের কারণে অংশ নিতে পারিনি। যেহেতু এই আয়োজন আন্তর্জাতিক অঙ্গনে পৌঁছার সুযোগ করে দেয়, তাই ইচ্ছে ছিল। যখন দেখলাম নিবন্ধন শুরু হয়ে গেছে, তখন যুক্ত হয়ে যাই। নিবন্ধনের পর নির্বাচিত হই। এখন আমি এমন কিছু করতে চাই, যাতে সবার উপকার হয়। অসহায় মানুষদের জন্য কিছু করতে চাই, অবশ্যই সেরাদের একজন হতে চাই। ভালো কাজ করতে চাই। মানুষের ভালোবাসা পাব, এমন কিছু করতে চাই সব সময়।’"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textIsSelectable="true"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                tools:ignore="HardcodedText" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ads" />
+</LinearLayout>
